@@ -1,6 +1,26 @@
 MIT License
 
-Copyright (c) 2026 Raytendo
+Copyright (c) 2026 Raytendo (Crash Bandicoot: Back in Time NX port)
+Copyright (c) 2026 baldi_nx port contributors
+Copyright (c) Deus Ex GO NX / Lara Croft GO NX / CloverPit NX port contributors
+and the Switch .so-loader lineage (Andy Nguyen, fgsfds, TheOfficialFloW,
+Rinnegatamante and the authors of the Zookeeper DX, Very Little Nightmares,
+PvZ Fusion, badpiggies, colorsheep and laytonbmr ports)
+
+This software is a wrapper/loader derived from MIT-licensed open-source Switch
+.so-loader projects. All inherited components keep their original notices.
+
+This software contains no game code and no game assets, and distributes none.
+You must supply the game files yourself, from a copy you legally obtained.
+
+Crash Bandicoot is a trademark of Activision Publishing, Inc. "Crash Bandicoot:
+Back in Time" and all of its code, art, music and other content belong to their
+respective authors and rights holders. This software is an independent,
+non-commercial interoperability wrapper. It is NOT affiliated with, authorized,
+sponsored or endorsed by Activision, the creators or developers of Crash
+Bandicoot, or the creators or developers of "Crash Bandicoot: Back in Time".
+The license below covers only the wrapper itself; it grants no rights
+whatsoever over any game or third-party content.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +39,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+----------------------------------------------------------------------------
+Third-party components linked into the .nro
+----------------------------------------------------------------------------
+libnx (ISC), SDL2 (zlib), Mesa / libdrm_nouveau (MIT), libpng (libpng-2.0),
+zlib (zlib). Their licenses are permissive and are available from their
+respective projects.
