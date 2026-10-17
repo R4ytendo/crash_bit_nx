@@ -17,7 +17,7 @@ Status: Work In Progress
 
 ## How to install
 
-1. You need a ##v0.95 of Android release; extract the files from your own legally-owned copy of the game.
+1. You need a **v0.95** of Android release; extract the files from your own legally-owned copy of the game.
 2. Create `sdmc:/switch/crash_bit_nx/` on your SD card and put these in it:
 
 ```
